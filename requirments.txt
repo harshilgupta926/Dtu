@@ -1,3 +1,4 @@
+faster-whisper
+av<19
 pytranscript>=0.3.0
 google-genai
-

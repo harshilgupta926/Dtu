@@ -1,5 +1,5 @@
 from google import genai
-from .env inpot API_KEY
+from .env import API_KEY
 
 while True:
     client = genai.Client(api_key=API_KEY)
